@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="./galeria.xsl"?>
+<vehiculos>
+<imagen>
+<dibujo ruta="../images/bmwm3.jpg"/>
+</imagen>
+</vehiculos>

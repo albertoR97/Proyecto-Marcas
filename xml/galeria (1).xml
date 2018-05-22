@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria.xsl"?>
+<galeria>
+
+<imagen numero="Deportivo">
+  <dibujo ruta="../images/BMW-logo.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Deportivo">
+  <dibujo ruta="../images/mercedes-logo.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Deportivo">
+  <dibujo ruta="../images/seat-logo.png"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+<imagen numero="Familiares">
+  <dibujo ruta="../images/BMW-logo.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Familiares">
+  <dibujo ruta="../images/mercedes-logo.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Familiares">
+  <dibujo ruta="../images/seat-logo.png"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+<imagen numero="Rancheras">
+  <dibujo ruta="../images/BMW-logo.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Rancheras">
+  <dibujo ruta="../images/mercedes-logo.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Rancheras">
+  <dibujo ruta="../images/seat-logo.png"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+</galeria>

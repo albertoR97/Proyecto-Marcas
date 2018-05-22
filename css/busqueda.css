@@ -1,0 +1,25 @@
+a {margin:50px;font-family: fantasy;padding: 10px;font-size: 25px;color: black;position: relative;top:-15px;}
+a:link { text-decoration:none;}
+a:hover {text-decoration:none;color: white;background-color:rgb(255, 0, 0);color:white;} 
+p {color:black ;font-family: fantasy;font-size: 20px;}
+form {position: relative;left:1350px;top:-40px}
+input {color: white;background-color: #FF9800;border:black 2px solid; }
+nav {background-color:white;position: fixed;top:0px;left:-10px;width:1600px;height:120px; }
+body{background-image:url("../imagenes/lados.jpg");background-repeat:no-repeat;background-color:#323232;}
+#logo {margin-left: 20px;margin-top: 20px;}
+section {background-color:#323232;margin:105px 200px 0px 200px; }
+article {background-color:#323232;margin:-10px 200px 0px 200px;}
+h1{font-family: fantasy;font-size:40px;color: white;margin-left: 200px;}
+h2 {color:red;font-family: fantasy;font-size: 40px;}
+div {background-color:white;margin-top:20px; height: 450px;width:600px; }
+#enviar {margin-left: 100px;position: absolute;border: black 2px solid;border-radius: 30px;background-color: #FF9800;height: 40px;width: 200px;}
+textarea{background-color:  #FF9800;border:black 2px solid;color:white; }
+option{background-color:  #FF9800;border:black 2px solid;color:white;}
+select{background-color:  #FF9800;border:black 2px solid;color:white;}
+#buscador {color: white;background-color: red;border: black 2px solid;}
+footer {background-color:black;border: solid 0px ;border-radius: 10px;padding:15px;height:10px;width: 700px;margin-left: 200px;margin: auto}
+h3 {;margin-left: 150px;margin-top: -5px;color:white;font-size: 15px;font-family: arial;}
+#foto {margin-left:0;}
+h4{color: black;font-family: fantasy;font-size:30px;float: right;padding: 15px;margin-top: 150px;}
+#enla{margin-left:350px;background-color:red; border: black 2px solid;border-radius: 10px;padding: 10px;}
+#loc{margin-left: 200px;position:relative;margin-right:50px; }
