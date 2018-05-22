@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria.xsl"?>
+<galeria>
+
+<imagen numero="BMW/M3">
+  <dibujo ruta="./imagenes/bmwm3.jpg"/>
+  <nombre>Mclaren</nombre>
+</imagen>
+
+<imagen numero="Deportivo/BMW">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche2xml.jpg"/>
+  <nombre>BMW</nombre>
+</imagen>
+
+<imagen numero="Deportivo/Seat">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche3xml.jpg"/>
+  <nombre>SEAT</nombre>
+</imagen>
+
+<imagen numero="Familiares/Mercede">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche4xml.jpg"/>
+  <nombre>Mercedes</nombre>
+</imagen>
+
+<imagen numero="Familiares/Audi">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche5xml.jpg"/>
+  <nombre>Audi</nombre>
+</imagen>
+
+<imagen numero="Familiares/Volkswagen">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche6xml.jpg"/>
+  <nombre>Volkswagen</nombre>
+</imagen>
+
+<imagen numero="Rancheras/Opel">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche7xml.jpg"/>
+  <nombre>Opel</nombre>
+</imagen>
+
+<imagen numero="Rancheras/Renault">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche8xml.jpg"/>
+  <nombre>Renault</nombre>
+</imagen>
+
+<imagen numero="Rancheras/Fiat">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche9xml.jpg"/>
+  <nombre>Fiat</nombre>
+</imagen>
+
+<imagen numero="Rancheras/Honda">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche10xml.jpg"/>
+  <nombre>Honda</nombre>
+</imagen>
+
+</galeria>
