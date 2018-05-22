@@ -11,7 +11,7 @@ section {background-color:#323232;margin:105px 200px 0px 200px;height: 100%; }
 article {background-color:#323232;margin:-10px 200px 0px 200px;height: 100%;}
 #formulario {border: black 2px solid;background-color:white;padding: 10px;width: 30%;height:10%;border-radius: 30px; }
 #boton{margin-left:60px;}
-#buscador{background-color:black;}
+#buscador{background-color: red;}
 .text {margin-left:30px;}
 #mask {overflow: hidden;border-radius: 50%;position: absolute;z-index: 99;height: 400px;width: 400px;border: 10px solid #2DAAA7;}  //*https://www.mapsdirections.info/crear-un-mapa-de-google/ *//
 #mask iframe {position:absolute; border-radius: 50%; top: 0; left: 0;z-index: 50;}
