@@ -12,7 +12,7 @@
   <dibujo ruta="../imagenes/mercedesc.jpg"/>
 </imagen>
 <imagen numero="Mercedes-Benz/Clase S">
-  <dibujo ruta="../imagenes/mercedess.png"/>
+  <dibujo ruta="../imagenes/mercedess.jpg"/>
 </imagen>
 <imagen numero="Mercedes-Benz/GLE">
   <dibujo ruta="../imagenes/mercedesgle.jpg"/>
