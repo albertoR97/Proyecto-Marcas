@@ -3,7 +3,7 @@
 <galeria>
 
 <imagen numero="Mercedes-Benz/Clase E">
-  <dibujo ruta="../imagenes/mercedese.jpg"/>
+  <dibujo ruta="../imagenes/mercedesesg.jpg"/>
 </imagen>
 <imagen numero="Mercedes-Benz/Clase A">
   <dibujo ruta="../imagenes/mercedesa.jpg"/>
@@ -12,7 +12,7 @@
   <dibujo ruta="../imagenes/mercedesc.jpg"/>
 </imagen>
 <imagen numero="Mercedes-Benz/Clase S">
-  <dibujo ruta="../imagenes/mercedess.jpg"/>
+  <dibujo ruta="../imagenes/mercedess.png"/>
 </imagen>
 <imagen numero="Mercedes-Benz/GLE">
   <dibujo ruta="../imagenes/mercedesgle.jpg"/>
