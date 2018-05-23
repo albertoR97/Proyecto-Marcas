@@ -8,7 +8,8 @@
 <title>Galeria de fotos</title>
 </head>
 <body>
-<xsl:for-each select="imagen">  
+<xsl:for-each select="imagen"> 
+ <div style="border:solid 2px red;border-radius:10px;background-color:white>
 <div id="galeria">
 <div class="imagen" style="float: left; width:300px;">
   <h3>Modelo: <xsl:value-of select="@numero"/></h3>
@@ -23,6 +24,7 @@
        </xsl:attribute>
      </xsl:element>
     </div>
+</div>
 </div>
 </div>
 </xsl:for-each>
