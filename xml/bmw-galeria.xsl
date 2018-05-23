@@ -10,7 +10,7 @@
 <body>
 <xsl:for-each select="imagen"> 
 <div id="galeria">
-<div class="imagen" style="margin:50px; width:300px;">
+<div class="imagen" style="float:left; width:300px;">
   <h3>Modelo: <xsl:value-of select="@numero"/></h3>
      <xsl:element name="img">
        <xsl:attribute name="src">
