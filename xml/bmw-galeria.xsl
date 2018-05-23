@@ -13,7 +13,7 @@
 <div class="imagen" style="float: left; width:300px;">
   <h3>Modelo: <xsl:value-of select="@numero"/></h3>
 <div class="precio" style="float: left;">
- <h3>Precio: <xsl:value-of select="@valor"/></h3>
+ <h3>Precio: <xsl:value-of select="@precio"/></h3>
      <xsl:element name="img">
        <xsl:attribute name="src">
          <xsl:value-of select="dibujo/@ruta"/>
