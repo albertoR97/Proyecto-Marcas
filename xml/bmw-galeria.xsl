@@ -12,7 +12,7 @@
 <h1>BMW</h1>
 <xsl:for-each select="imagen">  
 <div id="galeria">
-<div class="imagen" style="float: left; width: 200px;">
+<div class="imagen" style="float: left; width: 100px;">
   <h3>Modelo: <xsl:value-of select="@numero"/></h3>
 <div class="precio" style="float: left;">
  <h3>Precio: <xsl:value-of select="@valor"/></h3>
@@ -21,7 +21,7 @@
          <xsl:value-of select="dibujo/@ruta"/>
        </xsl:attribute>
        <xsl:attribute name="height">
-         150
+         100
        </xsl:attribute>
      </xsl:element>
     </div>
