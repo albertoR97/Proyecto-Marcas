@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="bmw-galeria.xsl"?>
+<galeria>
+
+<imagen numero="BMW/M3">
+  <dibujo ruta="../imagenes/bmwm3.jpg"/>
+  <precio numero="30.000$">30.000$</precio>
+</imagen>
+
+<imagen numero="Deportivo/BMW">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche2xml.jpg"/>
+  <precio numero="20.000$">20.000$</precio>
+</imagen>
+
+<imagen numero="Deportivo/Seat">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche3xml.jpg"/>
+  <precio numero="20.000$">20.000$</precio>
+</imagen>
+
+<imagen numero="Familiares/Mercede">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche4xml.jpg"/>
+ <precio numero="20.000$">20.000$</precio>
+</imagen>
+
+<imagen numero="Familiares/Audi">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche5xml.jpg"/>
+  <precio numero="20.000$">20.000$</precio>
+</imagen>
+
+</galeria>
