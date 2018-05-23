@@ -2,22 +2,22 @@
 <?xml-stylesheet type="text/xsl" href="bmw-galeria.xsl"?>
 <galeria>
 
-<imagen numero="Volkswagen/M3">
-  <dibujo ruta="../imagenes/bmwm3.jpg"/>
+<imagen numero="Volkswagen/Golf">
+  <dibujo ruta="../imagenes/volkswagengolf.jpg"/>
 </imagen>
-<imagen numero="Volkswagen/Serie 3">
-  <dibujo ruta="../imagenes/bmws3.jpg"/>
+<imagen numero="Volkswagen/Polo">
+  <dibujo ruta="../imagenes/volkswagenpolo.jpg"/>
 </imagen>
-<imagen numero="Volkswagen/Serie 1">
-  <dibujo ruta="../imagenes/bmws1.jpg"/>
+<imagen numero="Volkswagen/Passat">
+  <dibujo ruta="../imagenes/volkswagenpassat.png"/>
 </imagen>
-<imagen numero="Volkswagen/X6">
-  <dibujo ruta="../imagenes/bmwx6.jpg"/>
+<imagen numero="Volkswagen/Caravelle">
+  <dibujo ruta="../imagenes/volkswagencaravelle.jpg"/>
 </imagen>
-<imagen numero="Volkswagen/X5">
-  <dibujo ruta="../imagenes/bmwx5.jpg"/>
+<imagen numero="Volkswagen/Tiguan">
+  <dibujo ruta="../imagenes/volkswagentiguan.jpg"/>
 </imagen>
- <imagen numero="Volkswagen/I3">
-  <dibujo ruta="../imagenes/bmwi3.jpg"/>
+ <imagen numero="Volkswagen/beetle">
+  <dibujo ruta="../imagenes/volkswagebeetle.jpg"/>
 </imagen>
 </galeria>
