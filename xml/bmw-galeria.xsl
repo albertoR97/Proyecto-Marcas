@@ -8,8 +8,6 @@
 <title>Galeria de fotos</title>
 </head>
 <body>
-
-<h1>BMW</h1>
 <xsl:for-each select="imagen">  
 <div id="galeria">
 <div class="imagen" style="float: left; width:300px;">
