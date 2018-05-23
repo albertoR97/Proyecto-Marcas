@@ -17,7 +17,7 @@
          <xsl:value-of select="dibujo/@ruta"/>
        </xsl:attribute>
        <xsl:attribute name="height">
-         200
+         100
        </xsl:attribute>
      </xsl:element>
 </div>
