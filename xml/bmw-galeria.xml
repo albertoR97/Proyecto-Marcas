@@ -4,31 +4,22 @@
 
 <imagen numero="BMW/M3">
   <dibujo ruta="../imagenes/bmwm3.jpg"/>
-  <precio valor="91.650 €">91.650 €</precio>
 </imagen>
 
 <imagen numero="BMW/Serie 3">
   <dibujo ruta="../imagenes/bmws3.jpg"/>
-  <precio valor="38.800 €">38.800 €</precio>
 </imagen>
 <imagen numero="BMW/Serie 1">
   <dibujo ruta="../imagenes/bmws1.jpg"/>
-  <precio valor="19.860 €">19.860 €</precio>
 </imagen>
 <imagen numero="BMW/X6">
   <dibujo ruta="../imagenes/bmwx6.jpg"/>
-  <precio valor="81.900 €">81.900 €</precio>
 </imagen>
 
 <imagen numero="BMW/X5">
   <dibujo ruta="../imagenes/bmwx5.jpg"/>
- <precio valor="48.540 €">48.540 €</precio>
 </imagen>
  <imagen numero="BMW/I3">
   <dibujo ruta="../imagenes/bmwi3.jpg"/>
- <precio valor="38.200 €">38.200 €</precio>
 </imagen>
-
-
-
 </galeria>
