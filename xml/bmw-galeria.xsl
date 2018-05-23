@@ -22,7 +22,6 @@
      </xsl:element>
 </div>
 </div>
-</div>
 </xsl:for-each>
 
   
