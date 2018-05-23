@@ -6,7 +6,7 @@
   <dibujo ruta="../imagenes/audia1.jpg"/>
 </imagen>
 <imagen numero="Audi/A7">
-  <dibujo ruta="../imagenes/audia7.png"/>
+  <dibujo ruta="../imagenes/audia7.jpg"/>
 </imagen>
 <imagen numero="Audi/Q7">
   <dibujo ruta="../imagenes/audiq7.jpg"/>
