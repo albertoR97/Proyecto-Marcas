@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="bmw-galeria.xsl"?>
+<galeria>
+
+<imagen numero="Volkswagen/M3">
+  <dibujo ruta="../imagenes/bmwm3.jpg"/>
+</imagen>
+<imagen numero="Volkswagen/Serie 3">
+  <dibujo ruta="../imagenes/bmws3.jpg"/>
+</imagen>
+<imagen numero="Volkswagen/Serie 1">
+  <dibujo ruta="../imagenes/bmws1.jpg"/>
+</imagen>
+<imagen numero="Volkswagen/X6">
+  <dibujo ruta="../imagenes/bmwx6.jpg"/>
+</imagen>
+<imagen numero="Volkswagen/X5">
+  <dibujo ruta="../imagenes/bmwx5.jpg"/>
+</imagen>
+ <imagen numero="Volkswagen/I3">
+  <dibujo ruta="../imagenes/bmwi3.jpg"/>
+</imagen>
+</galeria>
