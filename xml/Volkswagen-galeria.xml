@@ -6,18 +6,18 @@
   <dibujo ruta="../imagenes/volkswagengolf.jpg"/>
 </imagen>
 <imagen numero="Volkswagen/Polo">
-  <dibujo ruta="../imagenes/volkswagenpolo.jpg"/>
+  <dibujo ruta="../imagenes/VolkswagenPolo.jpg"/>
 </imagen>
 <imagen numero="Volkswagen/Passat">
   <dibujo ruta="../imagenes/volkswagenpassat.png"/>
 </imagen>
 <imagen numero="Volkswagen/Caravelle">
-  <dibujo ruta="../imagenes/volkswagencaravelle.jpg"/>
+  <dibujo ruta="../imagenes/volkswagen caravelle.jpg"/>
 </imagen>
 <imagen numero="Volkswagen/Tiguan">
   <dibujo ruta="../imagenes/volkswagentiguan.jpg"/>
 </imagen>
  <imagen numero="Volkswagen/beetle">
-  <dibujo ruta="../imagenes/volkswagebeetle.jpg"/>
+  <dibujo ruta="../imagenes/volkswagenbeetle.jpg"/>
 </imagen>
 </galeria>
