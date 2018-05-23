@@ -24,6 +24,10 @@
   <dibujo ruta="../imagenes/bmwx5.jpg"/>
  <precio valor="48.540 €">48.540 €</precio>
 </imagen>
+ <imagen numero="BMW/I3">
+  <dibujo ruta="../imagenes/bmwi3.jpg"/>
+ <precio valor="38.200 €">38.200 €</precio>
+</imagen>
 
 
 
