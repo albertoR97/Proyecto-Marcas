@@ -2,24 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="bmw-galeria.xsl"?>
 <galeria>
 
-<imagen numero="BMW/M3">
+<imagen numero="BMW/M3" valor"="91.650 €">
   <dibujo ruta="../imagenes/bmwm3.jpg"/>
 </imagen>
 
-<imagen numero="BMW/Serie 3">
+<imagen numero="BMW/Serie 3" valor"="	38.900 €">
   <dibujo ruta="../imagenes/bmws3.jpg"/>
 </imagen>
-<imagen numero="BMW/Serie 1">
+<imagen numero="BMW/Serie 1" valor"="29.900 €">
   <dibujo ruta="../imagenes/bmws1.jpg"/>
 </imagen>
-<imagen numero="BMW/X6">
+<imagen numero="BMW/X6" valor"="102.850 €">
   <dibujo ruta="../imagenes/bmwx6.jpg"/>
 </imagen>
 
-<imagen numero="BMW/X5">
+<imagen numero="BMW/X5" valor"="68.404 €">
   <dibujo ruta="../imagenes/bmwx5.jpg"/>
 </imagen>
- <imagen numero="BMW/I3">
+ <imagen numero="BMW/I3" valor"="48.200 €">
   <dibujo ruta="../imagenes/bmwi3.jpg"/>
 </imagen>
 </galeria>
