@@ -17,7 +17,7 @@
 <imagen numero="Mercedes-Benz/GLE">
   <dibujo ruta="../imagenes/mercedesgle.jpg"/>
 </imagen>
- <imagen numero="Mercedes-Benz/CLS>
+ <imagen numero="Mercedes-Benz/CLS">
   <dibujo ruta="../imagenes/mercedescls.jpg"/>
 </imagen>
 </galeria>
