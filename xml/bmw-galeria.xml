@@ -4,27 +4,27 @@
 
 <imagen numero="BMW/M3">
   <dibujo ruta="../imagenes/bmwm3.jpg"/>
-  <precio valor="30.000$">30.000$</precio>
+  <precio valor="91.650 €">91.650 €</precio>
 </imagen>
 
-<imagen numero="Deportivo/BMW">
-  <dibujo ruta="../imagenes/ImagenesGlobal/coche2xml.jpg"/>
-  <precio valor="20.000$">20.000$</precio>
+<imagen numero="BMW/Serie 3">
+  <dibujo ruta="../imagenes/bmws3.jpg"/>
+  <precio valor="38.800 €">38.800 €</precio>
+</imagen>
+<imagen numero="BMW/Serie 1">
+  <dibujo ruta="../imagenes/bmws1.jpg"/>
+  <precio valor="19.860 €">19.860 €</precio>
+</imagen>
+<imagen numero="BMW/X6">
+  <dibujo ruta="../imagenes/bmwx6.jpg"/>
+  <precio valor="81.900 €">81.900 €</precio>
 </imagen>
 
-<imagen numero="Deportivo/Seat">
-  <dibujo ruta="../imagenes/ImagenesGlobal/coche3xml.jpg"/>
-  <precio valor="20.000$">20.000$</precio>
+<imagen numero="BMW/X5">
+  <dibujo ruta="../imagenes/bmwx5.jpg"/>
+ <precio valor="48.540 €">48.540 €</precio>
 </imagen>
 
-<imagen numero="Familiares/Mercede">
-  <dibujo ruta="../imagenes/ImagenesGlobal/coche4xml.jpg"/>
- <precio valor="20.000$">20.000$</precio>
-</imagen>
 
-<imagen numero="Familiares/Audi">
-  <dibujo ruta="../imagenes/ImagenesGlobal/coche5xml.jpg"/>
-  <precio valor="20.000$">20.000$</precio>
-</imagen>
 
 </galeria>
