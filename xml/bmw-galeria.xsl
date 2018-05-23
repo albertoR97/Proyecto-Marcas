@@ -9,7 +9,6 @@
 </head>
 <body>
 <xsl:for-each select="imagen"> 
- <div style="border:solid 2px red;border-radius:10px;background-color:white>
 <div id="galeria">
 <div class="imagen" style="float: left; width:300px;">
   <h3>Modelo: <xsl:value-of select="@numero"/></h3>
@@ -21,9 +20,6 @@
          100
        </xsl:attribute>
      </xsl:element>
-   <div class="precio" style="float: left;">
- <h3>Precio: <xsl:value-of select="@valor"/></h3>
-    </div>
 </div>
 </div>
 </div>
