@@ -5,7 +5,7 @@ p {color:black ;font-family: Verdana;font-size: 20px;}
 form {position: relative;left:1350px;top:-40px}
 input {color: white;background-color: red;border:black 2px solid; }
 nav {background-color:white;position: fixed;top:0px;left:-10px;width:1600px;height:120px;width: 120%; }
-body{background-image:url("../imagenes/lados.jpg");background-repeat:no-repeat;background-color:#323232;}
+body{background-image:url("../imagenes/lados.jpg");background-repeat:repeat;background-color:#323232;}
 #logo {margin-left: 20px;margin-top: 20px;}
 .centro{width: 100%;margin: auto;overflow: hidden;}
 .centro ul {display: flex;padding: 0px;width: 400%;animation: cambio 20s infinite alternate linear;margin-top: 0px;}
